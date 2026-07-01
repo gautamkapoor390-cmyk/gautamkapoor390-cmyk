@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm passionate about Artificial Intelligence, Mach
 
 ## 🚀 About Me
 
-* 🎓 B.Tech student specializing in AIML
-* 📊 Learning Data Analytics and Machine Learning
-* ☁️ Exploring Cloud Computing technologies
-* 💻 Interested in Python
-* 🌱 Always learning new technologies and tools
+*  B.Tech student specializing in AIML
+*  Learning Data Analytics and Machine Learning
+*  Exploring Cloud Computing technologies
+*  Interested in Python
+*  Always learning new technologies and tools
 
 ## 🛠️ Skills & Technologies
 
